@@ -1,0 +1,14 @@
+D:\Time\bin\Debug\net8.0\Time.exe
+D:\Time\bin\Debug\net8.0\Time.deps.json
+D:\Time\bin\Debug\net8.0\Time.runtimeconfig.json
+D:\Time\bin\Debug\net8.0\Time.dll
+D:\Time\bin\Debug\net8.0\Time.pdb
+D:\Time\obj\Debug\net8.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\Time\obj\Debug\net8.0\Time.AssemblyInfoInputs.cache
+D:\Time\obj\Debug\net8.0\Time.AssemblyInfo.cs
+D:\Time\obj\Debug\net8.0\Time.csproj.CoreCompileInputs.cache
+D:\Time\obj\Debug\net8.0\Time.dll
+D:\Time\obj\Debug\net8.0\refint\Time.dll
+D:\Time\obj\Debug\net8.0\Time.pdb
+D:\Time\obj\Debug\net8.0\Time.genruntimeconfig.cache
+D:\Time\obj\Debug\net8.0\ref\Time.dll
